@@ -18,3 +18,30 @@ Since this standardization of account privileges has resulted in a certain amoun
 
 The maintainer of this repository is the Goverance Interest Group of the AMIA Open Source Committee, which (as of the #amia18 committee meeting) is [Henry Borchers](https://github.com/henryborchers), [Dave Rice](https://github.com/dericed), and [Andrew Weaver](https://github.com/privatezero).
 
+## Repository Recommendations
+
+These recommendations are in development but highly recommended for all AMIA Open Source repositories.
+
+### Use of README.md
+
+Repositories should include a README.md document that addresses, the following:
+
+- Description of the utility of the repository
+- Notes regarding installation and usage
+- Maintainers (see #identification-of-maintainers)
+
+### Identification of Maintainers
+
+Maintainers should be identified within a `# Maintainers` section of the README.md so that it can be linked to in this form `https://github.com/amiaopensource/REPOSITORY-NAME#maintainers` such as https://github.com/amiaopensource/open-workflows#maintainers. Maintainers should also be identifiable with administrative rights to the repository in the `Settings>Collaborators & teams` section of the repository, such as https://github.com/amiaopensource/open-workflows/settings/collaboration.
+
+### Contribution Guidance
+
+Documentation on the contribution process and encouragement of contribution is suggested within with a section in the README, such as https://github.com/amiaopensource/ffmprovisr#how-do-i-contribute or a CONTRIBUTING.md file, such as https://github.com/amiaopensource/vrecord/blob/master/CONTRIBUTING.md.
+
+### Code of Conduct
+
+Documentation on the Code of Conduct for the repository should be stated within either a CODE_OF_CONDUCT.md file, such as https://github.com/amiaopensource/ffmprovisr/blob/gh-pages/code_of_conduct.md or a section of the README, such as https://github.com/amiaopensource/open-workflows#code-of-conduct. The [Contributor Covenant](https://www.contributor-covenant.org) and the [AMIA Code of Conduct](http://www.amiaconference.net/amia-code-of-conduct/) are suggestions.
+
+### Open License
+
+Each repository should document an open license that all repository code contributors have agreed to. This may be listed in a section of the README, such as https://github.com/amiaopensource/ffmprovisr#license; however, it is recommended to include the full license as a LICENSE.md file, such as https://github.com/amiaopensource/audiorecorder/blob/master/LICENSE.txt.
