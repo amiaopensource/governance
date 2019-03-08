@@ -13,3 +13,8 @@ At the start of this process, there were over twenty accounts listed as organiza
 As a first step towards restructuring to centralize things at the repository level, all accounts associated with AMIA-OS have been set to the 'member' level, with the exception of the current chairs of the committee, and a group of volunteers who form the interest group for this restructuring. Once this restructuring is completed, the members of this interest group will also be set to the 'member' level, and volunteers will be solicited for an ongoing maintenance group.
 
 Since this standardization of account privileges has resulted in a certain amount of disruption, the next steps will be to A: Request project maintainers double check the access levels of participants in their projects, and B: Solicit maintainers for projects that currently have none.
+
+## Maintainers
+
+The maintainer of this repository is the Goverance Interest Group of the AMIA Open Source Committee, which (as of the #amia18 committee meeting) is [Henry Borchers](https://github.com/henryborchers), [Dave Rice](https://github.com/dericed), and [Andrew Weaver](https://github.com/privatezero).
+
