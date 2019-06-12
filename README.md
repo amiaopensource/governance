@@ -32,7 +32,7 @@ Repositories should include a README.md document that addresses, the following:
 
 ### Identification of Maintainers
 
-Maintainers should be identified within a `# Maintainers` section of the README.md so that it can be linked to in this form `https://github.com/amiaopensource/REPOSITORY-NAME#maintainers` such as https://github.com/amiaopensource/open-workflows#maintainers. Maintainers should also be identifiable with administrative rights to the repository in the `Settings>Collaborators & teams` section of the repository, such as https://github.com/amiaopensource/open-workflows/settings/collaboration.
+Maintainers should be identified within a `# Maintainers` section of the README.md so that it can be linked to in this form `https://github.com/amiaopensource/REPOSITORY-NAME#maintainers` such as https://github.com/amiaopensource/open-workflows#maintainers. Maintainers should also be identifiable with administrative rights to the repository in the `Settings>Collaborators & teams` section of the repository.
 
 ### Contribution Guidance
 
